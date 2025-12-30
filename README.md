@@ -40,6 +40,15 @@ A bilingual (English/German) language model built with **ternary quantization** 
 - **Selective SSM**: Mamba-style state space model for efficient sequence mixing
 - **Sliding Window Attention**: Local attention (every 4th layer) for explicit recall
 
+## Download Model Weights
+
+The model weights (`best_model.pt`, ~983MB) are too large for GitHub. Download options:
+
+1. **GitHub Releases**: Check the [Releases](https://github.com/Keyvanhardani/Aegis-85M/releases) page
+2. **Contact**: Request from author via [keyvan.ai](https://keyvan.ai)
+
+After downloading, place `best_model.pt` in the repository root.
+
 ## Usage
 
 ### Quick Start
